@@ -1,6 +1,7 @@
 # Чек-листы ads.vk.com
 
 ## Аудитории
+[/hq/audience](https://ads.vk.com/hq/audience)
 
 <img src="pics/auditories.png" style="height: 300px;"/>
 
@@ -21,6 +22,7 @@
 - Создание Аудитории. Добавление источника. Ключевые фразы. Если ввести текст в поле "Минус фразы" и нажать кнопку "Сохранить", то на поле "Ключевые фразы" появится сообщение "Обязательное поле"
 
 ## Бюджет
+[/hq/budget/transactions](https://ads.vk.com/hq/budget/transactions)
 
 <img src="pics/budget.png" style="height: 500px;"/>
 
